@@ -1,0 +1,9 @@
+<resources>
+    <string name="rusPoint" translatable="false" />
+    <string name="gerPoint" translatable="false" />
+    <string name="reset">Сброс</string>
+    <string name="add">Добавить</string>
+    <string name="rus">Россия</string>
+    <string name="ger">Германия</string>
+    <string name="app_name">Табло</string>
+</resources>
